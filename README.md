@@ -9,4 +9,3 @@
 
 ## 介面預覽
 ![BDD AI Generator 介面預覽](screenshot.png)
-訪問 `https://bdd-qa-assessment2605.onrender.com/` 即可開始使用。
